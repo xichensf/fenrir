@@ -1,2 +1,2 @@
 # fenrir
-Tissue-specific functional network inference
+Tissue-specific enhancer functional network inference
